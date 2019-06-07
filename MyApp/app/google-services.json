@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "646592939021",
+    "firebase_url": "https://mycall-55dae.firebaseio.com",
+    "project_id": "mycall-55dae",
+    "storage_bucket": "mycall-55dae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646592939021:android:23dd34152ce02550",
+        "android_client_info": {
+          "package_name": "friendsforever.fyp.app.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646592939021-ejbjb1bqqkev6glrdnuqbm84sb76bfqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwxOrs0dtmU6eLLxZXqCFxEnOHLhHqvpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646592939021-ejbjb1bqqkev6glrdnuqbm84sb76bfqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
